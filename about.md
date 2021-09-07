@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Richard Forrest.
+Hi I'm Richard Forrest. Im Forrest Tech
 
 
   <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHKrC1qNGO-Qg/profile-displayphoto-shrink_200_200/0/1517702061798?e=1636588800&v=beta&t=OWjovZobsmlAYoA0VI9hcv_lqaqEEhC3uPIowZI3YFs" height="auto" width="200" style="border-radius:50%"></a>
