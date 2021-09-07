@@ -26,4 +26,4 @@ A real software enthusiast with a passion for emerging technologies, continues d
 
 ### Contact me
 
-[email@domain.com](mailto:richard.a.forrest@gmail.com)
+[richard.a.forrest@gmail.com](mailto:richard.a.forrest@gmail.com)
